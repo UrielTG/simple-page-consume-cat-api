@@ -13,8 +13,8 @@ https://cataas.com/#/
 
 #### Get item
 
-```http
-  GET /api/items/${id}
+```
+  https://cataas.com/cat
 ```
 
 | URL         | Description               |
